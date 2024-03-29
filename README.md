@@ -1,6 +1,6 @@
 # MirrorInfo_assignment
 
-Tech stack used for the project are: Node.Js , Express.Js, Mongoose
+Tech stack used for the project : Node.Js , Express.Js, Mongoose <br><br>
 DataBase used : MongoDB
 
 API Routes:
